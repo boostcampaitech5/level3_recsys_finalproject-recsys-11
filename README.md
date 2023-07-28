@@ -133,9 +133,16 @@
 
 ## 서비스 아키텍처
 
-Frontend ..
 
-Web Server ..
+
+### Web Server
+![image](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/44e202c0-64e5-49e9-9be9-5e21be4bab90)
+
+<br>
+
+### Database
+![image](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/21250ccd-0314-4c17-a3fe-99573f1f2782)
+
 
 
 
