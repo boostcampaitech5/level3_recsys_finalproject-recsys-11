@@ -2,7 +2,7 @@
 <a href="https://howcan.ai/">
   <img src="https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/431b5bb5-572f-4395-971b-1618863456c2">
 </a>
-<br><br>
+<br>
 
 > 실시간 정보 반영하고 할루시네이션 문제를 해결한 새로운 검색엔진  
 > 2023.06.30 ~ 2023.07.28 (29일)
@@ -16,7 +16,7 @@
 - [Vue.js frontend](https://github.com/NewRecsys/howcanai-frontend)
 - [Polyglot server](https://github.com/NewRecsys/howcanai-model)
 
-<br><br>
+<br>
 
 ## Members
 <div align="center">
@@ -57,13 +57,13 @@
 </div>
 
 
-<br><br>
+<br>
 
 ## UI / UX
 ![howcanai-desktop](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/a81d8850-4afa-4791-b30a-845019fe09dd)
 ![howcanai-mobile](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/941a322f-e082-4cdd-ad1d-bf5ee173a244)
 
-<br><br>
+<br>
 
 ## 활용 기술
 
@@ -99,14 +99,14 @@
 
 </p>
 
-<br><br>
+<br>
 
 ## 활용 장비
 
 - GPU: NVIDIA Tesla V100 * 5
 - OS: Ubuntu 18.04.5 LTS
 
-<br><br>
+<br>
 
 ## AI 모델 구조
 
@@ -139,7 +139,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 ## 서비스 아키텍처
 ### Frontend
