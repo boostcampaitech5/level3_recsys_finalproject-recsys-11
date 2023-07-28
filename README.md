@@ -127,9 +127,14 @@
   </tr>
 </table>
 
+
+![model-pipeline](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/24af2c4a-97d5-400f-abfe-307cc6e8a542)
+
+
 </div>
 
-모델 아키텍처 ..
+
+
 
 ## 서비스 아키텍처
 ### Frontend
