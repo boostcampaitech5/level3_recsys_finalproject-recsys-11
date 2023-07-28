@@ -132,19 +132,17 @@
 모델 아키텍처 ..
 
 ## 서비스 아키텍처
+### Frontend
+![frontend](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/a01416db-3891-4e87-b8cf-d07ce5032da8)
 
-
+<br>
 
 ### Web Server
-![image](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/44e202c0-64e5-49e9-9be9-5e21be4bab90)
+![web-server](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/4e22b397-7350-4b61-bbe5-57035d72bd87)
 
 <br>
 
 ### Database
-![image](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/21250ccd-0314-4c17-a3fe-99573f1f2782)
-
-
-
-
+![database](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/35482eb5-c681-402b-b093-623cd2c67378)
 
 
