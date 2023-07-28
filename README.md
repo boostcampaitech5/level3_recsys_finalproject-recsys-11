@@ -27,31 +27,31 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
   <tr>
      <td align="center">
         <a href="https://github.com/gangjoohyeong">
-          <img src="https://avatars.githubusercontent.com/u/93419379?v=4" width="100px" alt=""/><br />
+          <img src="https://avatars.githubusercontent.com/u/93419379?v=4" width="80px" alt=""/><br />
           <sub><b>강주형</b></sub>
         </a><br/>
     </td>
     <td align="center">
         <a href="https://github.com/watchstep">
-          <img src="https://avatars.githubusercontent.com/u/88659167?v=4" width="100px" alt=""/><br />
+          <img src="https://avatars.githubusercontent.com/u/88659167?v=4" width="80px" alt=""/><br />
           <sub><b>김주의</b></sub>
         </a><br/>
     </td>
     <td align="center">
         <a href="https://github.com/eunjios">
-          <img src="https://avatars.githubusercontent.com/u/77034159?v=4" width="100px" alt=""/><br />
+          <img src="https://avatars.githubusercontent.com/u/77034159?v=4" width="80px" alt=""/><br />
           <sub><b>이은지</b></sub>
         </a><br/>
     </td>
     <td align="center">
         <a href="https://github.com/hoyajigi">
-          <img src="https://avatars.githubusercontent.com/u/1335881?v=4" width="100px" alt=""/><br />
+          <img src="https://avatars.githubusercontent.com/u/1335881?v=4" width="80px" alt=""/><br />
           <sub><b>조현석</b></sub>
         </a><br/>
     </td>
     <td align="center">
         <a href="https://github.com/MSGitt">
-          <img src="https://avatars.githubusercontent.com/u/121923924?v=4" width="100px" alt=""/><br />
+          <img src="https://avatars.githubusercontent.com/u/121923924?v=4" width="80px" alt=""/><br />
           <sub><b>최민수</b></sub><br/>
         </a>
     </td>
@@ -64,9 +64,9 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 
 ## 💻 UI / UX
 
-<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/a81d8850-4afa-4791-b30a-845019fe09dd' width='400px'>
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/a81d8850-4afa-4791-b30a-845019fe09dd' width='500px'>
 
-<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/941a322f-e082-4cdd-ad1d-bf5ee173a244' width='400px'>
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/941a322f-e082-4cdd-ad1d-bf5ee173a244' width='500px'>
 
 </br>
 
@@ -96,7 +96,7 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 
 </br>
 
-<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/24af2c4a-97d5-400f-abfe-307cc6e8a542' width='400px' height='500px'>
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/24af2c4a-97d5-400f-abfe-307cc6e8a542' width='700px'>
 
 </div>
 
@@ -106,19 +106,19 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 
 ### Frontend
 
-<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/a01416db-3891-4e87-b8cf-d07ce5032da8' width='400px'>
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/a01416db-3891-4e87-b8cf-d07ce5032da8' width='700px'>
 
 <br>
 
 ### Web Server
 
-<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/4e22b397-7350-4b61-bbe5-57035d72bd87' width='400px'>
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/4e22b397-7350-4b61-bbe5-57035d72bd87' width='700px'>
 
 <br>
 
 ### Database
 
-<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/35482eb5-c681-402b-b093-623cd2c67378' width='400px'>
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/35482eb5-c681-402b-b093-623cd2c67378' width='700px'>
 
 ## 🎯 Environments
 
