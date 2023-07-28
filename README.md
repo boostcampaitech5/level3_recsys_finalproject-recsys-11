@@ -1,7 +1,7 @@
 
 
 <a href="https://howcan.ai/">
-  <img src="https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/431b5bb5-572f-4395-971b-1618863456c2" width='200px' >
+  <img src="https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/431b5bb5-572f-4395-971b-1618863456c2" width='800px' >
 </a>
 <br>
 
