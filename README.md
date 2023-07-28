@@ -76,6 +76,10 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 ## 🔨 Model Pipeline
 
 <div align="center">
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/24af2c4a-97d5-400f-abfe-307cc6e8a542' width='800px'>
+</div>
+
+<div align="center">
 <table>
   <tr>
      <td align="center">
@@ -96,10 +100,6 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
     </td>
   </tr>
 </table>
-</div>
-
-<div align="center">
-<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/24af2c4a-97d5-400f-abfe-307cc6e8a542' width='800px'>
 </div>
   
 <br>
