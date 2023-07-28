@@ -145,7 +145,7 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
 </a>
 <a href="https://www.pytorchlightning.ai/index.html">
-  <img src="https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white" alt="PyTorch Lightning">
+  <img src="https://img.shields.io/badge/-Lightning-792ee5?style=flat-square&logo=pytorchlightning&logoColor=white" alt="PyTorch Lightning">
 </a>
 <a href="https://huggingface.co/">
   <img src="https://img.shields.io/badge/HuggingFace-000?style=flat-square&logo=huggingface&logoColor=white" alt="HuggingFace">
