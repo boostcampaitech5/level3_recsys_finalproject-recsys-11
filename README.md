@@ -4,8 +4,14 @@
 </a>
 <br>
 
+
+https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/d9077dfd-f4aa-4264-9999-f8bd04c24563
+
+
 > 실시간 정보 반영하고 할루시네이션 문제를 해결한 새로운 검색엔진  
 > 2023.06.30 ~ 2023.07.28 (29일)
+
+
 
 <p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboostcampaitech5%2Flevel3_recsys_finalproject-recsys-11%2F&count_bg=%23555555&title_bg=%237B31C2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
 
