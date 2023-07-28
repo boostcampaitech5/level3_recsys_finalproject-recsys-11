@@ -63,10 +63,13 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 </br>
 
 ## 💻 UI / UX
-
+<div align="center">
 <img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/a81d8850-4afa-4791-b30a-845019fe09dd' width='500px'>
+</div>
 
+<div align="center">
 <img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/941a322f-e082-4cdd-ad1d-bf5ee173a244' width='500px'>
+</div>
 
 </br>
 
@@ -93,32 +96,36 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
     </td>
   </tr>
 </table>
-
-</br>
-
-<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/24af2c4a-97d5-400f-abfe-307cc6e8a542' width='700px'>
-
 </div>
 
+<div align="center">
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/24af2c4a-97d5-400f-abfe-307cc6e8a542' width='700px'>
+</div>
+  
 <br>
 
 ## 📐 Architecture
 
 ### Frontend
 
-<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/a01416db-3891-4e87-b8cf-d07ce5032da8' width='700px'>
-
+<div align="center">
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/a01416db-3891-4e87-b8cf-d07ce5032da8' width='800px'>
+</div>
 <br>
 
 ### Web Server
 
-<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/4e22b397-7350-4b61-bbe5-57035d72bd87' width='700px'>
-
+<div align="center">
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/4e22b397-7350-4b61-bbe5-57035d72bd87' width='800px'>
+</div>
+  
 <br>
 
 ### Database
 
-<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/35482eb5-c681-402b-b093-623cd2c67378' width='700px'>
+<div align="center">
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/35482eb5-c681-402b-b093-623cd2c67378' width='500px'>
+</div>
 
 ## 🎯 Environments
 
