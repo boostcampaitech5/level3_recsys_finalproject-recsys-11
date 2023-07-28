@@ -99,7 +99,7 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 </div>
 
 <div align="center">
-<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/24af2c4a-97d5-400f-abfe-307cc6e8a542' width='700px'>
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/24af2c4a-97d5-400f-abfe-307cc6e8a542' width='750px'>
 </div>
   
 <br>
@@ -109,14 +109,14 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 ### Frontend
 
 <div align="center">
-<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/a01416db-3891-4e87-b8cf-d07ce5032da8' width='800px'>
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/a01416db-3891-4e87-b8cf-d07ce5032da8' width='700px'>
 </div>
 <br>
 
 ### Web Server
 
 <div align="center">
-<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/4e22b397-7350-4b61-bbe5-57035d72bd87' width='800px'>
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/4e22b397-7350-4b61-bbe5-57035d72bd87' width='700px'>
 </div>
   
 <br>
@@ -131,6 +131,8 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 
 - GPU: NVIDIA Tesla V100 * 5
 - OS: Ubuntu 18.04.5 LTS
+
+<br>
 
 ## 🔧 Skills
 
