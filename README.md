@@ -1,6 +1,7 @@
 
-[![howcanai-logo](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/431b5bb5-572f-4395-971b-1618863456c2)](https://howcan.ai/)
-
+<a href="https://howcan.ai/">
+  <img src="https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/431b5bb5-572f-4395-971b-1618863456c2">
+</a>
 <br><br>
 
 > 실시간 정보 반영과 할루시네이션 문제를 해결한 새로운 검색엔진  
@@ -104,12 +105,37 @@
 
 ## AI 모델 구조
 
+<div align="center">
+<table>
+  <tr>
+     <td align="center">
+          <img src="https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/9e5da714-ce7c-4455-8395-9de75ede9683" width="100px" alt=""/><br />
+          <sub><b>gpt-turbo-3.5-16k</b></sub><br/>
+    </td>
+     <td align="center">
+          <img src="https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/bc47c8fb-e1c8-4bf7-be53-dc757d61eb70" width="100px" alt=""/><br />
+          <sub><b>PolyGlot-ko 12.8B</b></sub><br/>
+    </td>
+     <td align="center">
+          <img src="https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/78e5c1a6-4266-457e-848f-a5ef71d1b084" width="100px" alt=""/><br />
+          <sub><b>BERT/RoBERTa</b></sub><br/>
+    </td>
+     <td align="center">
+          <img src="https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/73ba2e93-5018-41f1-88e7-cd0f10af8a03" width="100px" alt=""/><br />
+          <sub><b>Ko-BART</b></sub><br/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+모델 아키텍처 ..
 
 ## 서비스 아키텍처
 
-Frontend
+Frontend ..
 
-Web Server
+Web Server ..
 
 
 
