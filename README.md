@@ -16,7 +16,9 @@
 
 ## 👀 Preview
 
-https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/d9077dfd-f4aa-4264-9999-f8bd04c24563
+
+https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/10453a93-7c55-4ca2-97a3-f5bcdc3d3633
+
 
 </br>
 
@@ -116,6 +118,7 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 ### Frontend
 
 <div align="center">
+  
 ![frontend](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/57060a23-a8b8-418c-a3fc-39227a6ab088)
 
 
@@ -125,6 +128,7 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 ### Web Server
 
 <div align="center">
+  
 ![web-server](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/bc6b5b14-3e95-4ab6-adbe-e5292087f901)
 
 </div>
@@ -134,6 +138,7 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 ### Database
 
 <div align="center">
+  
 ![database](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/9a6456ea-0b30-41dc-9259-b69dcb1cf5b3)
 
 </div>
