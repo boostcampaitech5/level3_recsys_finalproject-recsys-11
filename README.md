@@ -67,13 +67,13 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 ## 💻 UI / UX
 <div align="center">
 
-<img width="1436" alt="howcanai-desktop" src="https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/ea94ed4b-8939-4581-b08d-a808108d6b2d">
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/ea94ed4b-8939-4581-b08d-a808108d6b2d' width='700px'>
 
 </div>
 
 <div align="center">
 
-![howcanai-ios](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/832ca972-a5b6-4ed6-a89e-ece2c8a61933)
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/832ca972-a5b6-4ed6-a89e-ece2c8a61933' width='700px'>
 
 </div>
 
@@ -85,21 +85,20 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 <table>
   <tr>
      <td align="center">
-       
-![gpt](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/96fcac4d-00ca-4059-a324-bb43b0218b45)
-<br /><sub><b>gpt-turbo-3.5-16k</b></sub><br/>
+          <img src="https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/96fcac4d-00ca-4059-a324-bb43b0218b45" width="50px" alt=""/><br />
+          <sub><b>gpt-turbo-3.5-16k</b></sub><br/>
     </td>
      <td align="center">
-       ![polyglot](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/f4d27aca-9ab0-433f-ad51-f1d69c12a4ce)
-<br /><sub><b>PolyGlot-ko 12.8B</b></sub><br/>
+          <img src="https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/f4d27aca-9ab0-433f-ad51-f1d69c12a4ce" width="50px" alt=""/><br />
+          <sub><b>PolyGlot-ko 12.8B</b></sub><br/>
     </td>
      <td align="center">
-![bert](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/55649430-801b-40d8-b7b3-c153328dd8d8)
-<br /><sub><b>BERT/RoBERTa</b></sub><br/>
+          <img src="https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/55649430-801b-40d8-b7b3-c153328dd8d8" width="50px" alt=""/><br />
+          <sub><b>BERT/RoBERTa</b></sub><br/>
     </td>
      <td align="center">
-       ![kobart](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/1e84dd17-dac9-461c-b808-59bbb574d868)
-<br /><sub><b>Ko-BART</b></sub><br/>
+          <img src="https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/1e84dd17-dac9-461c-b808-59bbb574d868" width="50px" alt=""/><br />
+          <sub><b>Ko-BART</b></sub><br/>
     </td>
   </tr>
 </table>
@@ -118,19 +117,14 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 ### Frontend
 
 <div align="center">
-  
-![frontend](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/57060a23-a8b8-418c-a3fc-39227a6ab088)
-
-
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/57060a23-a8b8-418c-a3fc-39227a6ab088' width='650px'>
 </div>
 <br>
 
 ### Web Server
 
 <div align="center">
-  
-![web-server](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/bc6b5b14-3e95-4ab6-adbe-e5292087f901)
-
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/bc6b5b14-3e95-4ab6-adbe-e5292087f901' width='650px'>
 </div>
   
 <br>
@@ -138,9 +132,7 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 ### Database
 
 <div align="center">
-  
-![database](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/9a6456ea-0b30-41dc-9259-b69dcb1cf5b3)
-
+<img src='https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/93419379/9a6456ea-0b30-41dc-9259-b69dcb1cf5b3' width='550px'>
 </div>
 
 ## 🎯 Environments
