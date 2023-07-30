@@ -178,3 +178,8 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-11/assets/
 </a>
 
 </p>
+
+<br>
+
+
+<p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboostcampaitech5%2Flevel3_recsys_finalproject-recsys-11%2F&count_bg=%23555555&title_bg=%237B31C2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
